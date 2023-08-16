@@ -1,6 +1,9 @@
 
 # API GraphQL para un Blog
 
+![GraphQL](<img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-png-transparent.png" width="200"/>)
+
+
 
 Este proyecto es una aplicación Node.js que utiliza Express, GraphQL y Mongoose para crear una API GraphQL para un blog.
 
